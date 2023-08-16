@@ -10,5 +10,6 @@
 <p align="center">php artisan serve  </p>
 
 <p align="center">esta API é para consumação do sistema frontend feito em vue de outro repositorio </p>
-<href align="center">esta API é para consumação do sistema frontend feito em vue de outro repositorio(https://github.com/0x030x/frontend)</href>
+<p align="center">esta API é para consumação do sistema frontend feito em vue de outro repositorio</p>
+<p align="center">(https://github.com/0x030x/frontend)</p>
 
