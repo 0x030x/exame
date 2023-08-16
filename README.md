@@ -11,7 +11,7 @@ como instalar o projeto
 4 - crie um banco de dados com o nome "banco"
 5 - inicie seu servidor apache e mysql
 6 - php artisan migrate
-7 - php artisan serve 
+7 - php artisan serve  
 
 esta API é para consumação do sistema frontend feito em vue de outro repositorio
 
